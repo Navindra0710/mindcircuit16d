@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: navidocker0710/navidockercicdargocd:1
+          image: navidocker0710/navidockercicdargocd:5
           ports:
             - containerPort: 8080
